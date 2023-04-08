@@ -7,7 +7,7 @@ public class Hw1 {
 	public void practice1() {
 		System.out.println("Homework practice 5");
 	}
-	public void stash() {
-		System.out.println("stashing practice 5");
+	public void stash1() {
+		System.out.println("stashing practice 1");
 	}
 }
