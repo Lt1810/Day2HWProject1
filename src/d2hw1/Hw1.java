@@ -9,5 +9,7 @@ public class Hw1 {
 	}
 	public void stash1() {
 		System.out.println("stashing practice 1");
+	}public void stash2() {
+		System.out.println("stashing practice 2");
 	}
 }
